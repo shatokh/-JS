@@ -39,9 +39,10 @@ console.log(storeDescription);
 // Task 2.1
 let objectMe = {
     name: 'Dima',
+    surname: 'Sh',
     sex: 'Male',
     age: 34,
     interests: ['JavaScript', 'Java', 'books', 'cooking'],
-    love: true
+    alive: true
 }
 console.log(objectMe);
